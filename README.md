@@ -1,2 +1,2 @@
 # Toronto-Weather-Forecast
-This project, developed on Databricks, focuses on analyzing Toronto's 10-day weather forecast. The first notebook combines data extraction, transformation, and loading (ETL) with the creation of various visualisations using Apache Spark. The second notebook presents a dedicated dashboard that showcases these visualisations, providing an interactive and comprehensive overview of Toronto's upcoming weather patterns.
+This Databricks project processes Toronto's 10-day weather forecast using Apache Spark. The first notebook handles ETL and creates visualisations, offering insights into the weather data. The second notebook presents a dashboard that consolidates these visualisations, providing a clear overview of the forecast.
